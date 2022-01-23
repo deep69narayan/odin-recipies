@@ -1,0 +1,25 @@
+body
+{
+    background-color: beige;
+}
+
+.heading
+{
+    color: brown;
+}
+
+.sub-heading
+{
+    color:darkmagenta
+}
+
+.item
+{
+    color: chocolate;
+}
+
+.food-picture
+{
+    height: 300px;
+    width:300px;
+}
